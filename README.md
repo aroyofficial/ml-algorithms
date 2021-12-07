@@ -1,2 +1,2 @@
 # ML Algorithms
-<b>Arijit Roy</b>
+<b>Author: Arijit Roy</b>
