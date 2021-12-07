@@ -19,6 +19,10 @@
       <li>regression_analysis.png</li>
     </ul>
     <li>models</li>
+    <ul>
+      <li>linear_regression_model</li>
+      <li>logistic_regression_model</li>
+    </ul>
   </ul>
   <li>Classification Algorithms</li>
 </ul>
