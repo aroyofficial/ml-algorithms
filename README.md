@@ -1,7 +1,7 @@
 # ML Algorithms
 <b>Author: Arijit Roy</b>
 <ul>
-  <li>branch::main</li>
+  <li><b>branch :: main</b><br></li>
 <ul>
   <li>Regression Algorithms</li>
   <ul>
