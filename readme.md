@@ -1,7 +1,6 @@
 # ML Algorithms
 <b>Author: Arijit Roy</b>
-<ul>
-  <li><b>branch :: main</b><br></li>
+
 <ul>
   <li>Regression Algorithms</li>
   <ul>
@@ -41,5 +40,5 @@
       <li>decision_tree_model</li>
     </ul>
   </ul>
-</ul>
+  <li>readme.md</li>
 </ul>
