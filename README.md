@@ -25,4 +25,19 @@
     </ul>
   </ul>
   <li>Classification Algorithms</li>
+  <ul>
+    <li>Decision Tree Classifier</li>
+    <li>datasets</li>
+    <ul>
+      <li>redwinequality.csv</li>
+    </ul>
+    <li>images</li>
+    <ul>
+      <li>decision_tree.png</li>
+    </ul>
+    <li>models</li>
+    <ul>
+      <li>decision_tree_model</li>
+    </ul>
+  </ul>
 </ul>
