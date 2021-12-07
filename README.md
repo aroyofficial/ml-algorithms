@@ -6,6 +6,9 @@
   <ul>
     <li>Linear Regression</li>
     <li>Logistic Regression</li>
+    <li>datasets</li>
+    <li>images</li>
+    <li>models</li>
   </ul>
   <li>Classification Algorithms</li>
 </ul>
